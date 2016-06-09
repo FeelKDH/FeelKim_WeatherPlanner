@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="kimhea_dongname">
+        <item>내외동</item>
+        <item>대동면</item>
+        <item>동상동</item>
+        <item>부원동</item>
+        <item>북부동</item>
+        <item>불암동</item>
+        <item>삼안동</item>
+        <item>상동면</item>
+        <item>생림면</item>
+        <item>장유1동</item>
+        <item>장유2동</item>
+        <item>장유3동</item>
+        <item>주촌면</item>
+        <item>진례면</item>
+        <item>진영읍</item>
+        <item>칠산서부동</item>
+        <item>한림면</item>
+        <item>활천동</item>
+        <item>회현동</item>
+        <item>어방동</item>
+        <item>인제로</item>
+        <item>활천로237번길</item>
+    </string-array>
+    <string-array name="kimhea_dongcode">
+        <item>4825054000</item>
+        <item>4825037000</item>
+        <item>4825051000</item>
+        <item>4825053000</item>
+        <item>4825055000</item>
+        <item>4825060000</item>
+        <item>4825059000</item>
+        <item>4825036000</item>
+        <item>4825035000</item>
+        <item>4825061000</item>
+        <item>4825062000</item>
+        <item>4825063000</item>
+        <item>4825032000</item>
+        <item>4825033000</item>
+        <item>4825025000</item>
+        <item>4825056500</item>
+        <item>4825034000</item>
+        <item>4825058000</item>
+        <item>4825052000</item>
+        <item>4825058000</item>
+        <item>4825058000</item>
+        <item>4825058000</item>
+    </string-array>
+
+</resources>

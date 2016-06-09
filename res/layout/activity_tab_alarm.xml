@@ -1,0 +1,43 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="#87CEEB"
+    android:orientation="vertical" >
+    
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="97" >
+        
+    </ListView>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:orientation="horizontal">
+        
+
+        <Button
+            android:id="@+id/addbtn"
+            android:textSize="10pt"
+            android:layout_weight="50"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="+" />
+        
+        <Button
+            android:id="@+id/delbtn"
+            android:textSize="10pt"
+            android:layout_weight="50"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="-"/>
+        
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

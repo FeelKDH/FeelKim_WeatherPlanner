@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gyeongnam_cityname">
+        <item>김해시</item>
+        <item>거제시</item>
+    </string-array>
+    <string-array name="gyeongnam_citycode">
+        <item>4825000000</item>
+        <item>4831000000</item>
+    </string-array>
+</resources>
